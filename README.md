@@ -1,2 +1,2 @@
 # opencv
-Repo for OpenCV
+Repo for OpenCV course
